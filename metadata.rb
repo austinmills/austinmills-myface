@@ -1,6 +1,6 @@
 name             'austinmills-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'austinmills'
+maintainer_email 'austinmills@test.com'
 license          'All rights reserved'
 description      'Installs/Configures austinmills-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
